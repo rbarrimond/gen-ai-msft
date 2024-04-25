@@ -1,0 +1,1 @@
+{"AZURE_OPENAI_KEY": "<your-key>", "AZURE_OPENAI_ENDPOINT": "your-azure-open-ai-url", "AZURE_OPENAI_APITYPE": "azure", "AZURE_OPENAI_APIVERSION": "2023-05-15", "CHATGPT_MODEL":"name-of-your-instruction-tuned-model"}

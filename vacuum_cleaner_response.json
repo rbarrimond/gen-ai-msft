@@ -1,0 +1,22 @@
+[
+    {
+        "review": "The vacuum cleaner is very powerful and easy to use.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "This vacuum cleaner has excellent suction and is lightweight.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "I love how quiet this vacuum cleaner is during operation.",
+        "sentiment": "positive"
+    },
+    {
+        "review": "The vacuum cleaner broke down after a month of use.",
+        "sentiment": "negative"
+    },
+    {
+        "review": "It's hard to find replacement parts for this vacuum cleaner.",
+        "sentiment": "negative"
+    }
+]
